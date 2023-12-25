@@ -30,5 +30,3 @@ The model is trained based on publicly available dataset of labeled music data â
 - reggae;
 - rock.
 
-The final code is available as a [Kaggle notebook](https://www.kaggle.com/code/dima806/music-genre-classification-wav2vec2-base-960h).
-See also [my Medium article](https://medium.com/data-and-beyond/building-a-free-advanced-music-genre-classification-pipeline-using-machine-learning-654b0de7cc3e)  for more details.
