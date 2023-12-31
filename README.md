@@ -4,6 +4,12 @@ metrics:
 - accuracy
 - roc_auc
 ---
+For Presentation you can check my [Youtube](https://youtu.be/NIky8I70Yeg) Channel 
+
+This is Project's Flowchart
+
+![Flowchart Ubicom](https://github.com/mrahmatmuhaimin/music_genres_classification/assets/101171623/d1a3d36b-d252-4469-a35d-49e3c7aeaf10)
+
 [Music genre](https://en.wikipedia.org/wiki/Music_genre) classification is a fundamental and versatile application in many various domains. Some possible use cases for music genre classification include:
 
 - music recommendation systems;
